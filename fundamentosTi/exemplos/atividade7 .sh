@@ -18,3 +18,4 @@ do
   somavalores=$( bc <<< "scale=2; $somavalores/15)
   echo "o produto mais caro custa $maior reais"
   echo "a media de valores dos produtor é $somavalores"
+.
